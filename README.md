@@ -8,7 +8,7 @@ This project extracts passport details directly from an image using **MRZ (Machi
 
 ## 🎬 Demo
 
-👉 
+👉 [Watch Demo Video](./screen-recording-2026-05-05-185549_dWS1mBkh.mp4)
 
 
 
