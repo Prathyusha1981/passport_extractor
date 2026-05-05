@@ -1,0 +1,9 @@
+{
+ "doctype": "Page",
+ "module": "Passport Extractor",
+ "name": "passport-scanner",
+ "page_name": "passport-scanner",
+ "roles": [],
+ "standard": "Yes",
+ "system_page": 0
+}
